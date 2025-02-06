@@ -14,7 +14,7 @@ class TicTacToeGame extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           backgroundColor: Colors.white,
-          title: const Text("Tic Tac Toe"),
+          title: const Text("TacFusion"),
           centerTitle: true,
         ),
         body: const TicTacToeBoard(),
